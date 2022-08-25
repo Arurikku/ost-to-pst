@@ -14,6 +14,8 @@ Don't question the code itself, it's just an exploit thing because I didn't want
 
 This is obviously free, and there is no license or whatever.
 
+It will glitch if you use a ridiculously large file (over 4gb)
+
 ---
 
 ### There very well might be bugs, please let me know of any
