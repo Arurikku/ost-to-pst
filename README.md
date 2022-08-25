@@ -3,8 +3,10 @@ Converts outlook data file OST to outlook data file PST
 
 # Usage
 
-```ostConverter.exe <input .ost file> <output .pst file>```
-> Example: ```ostConverter.exe C:\Users\username\Desktop\coolFile.ost C:\Users\username\Desktop\evenCoolerFile.pst
+```ostConverter.exe <input .ost file> <output folder>```
+> Example: ```ostConverter.exe C:\Users\username\Desktop\coolFile.ost C:\Users\username\Desktop
+
+The reason the output has to be a folder is because this uses an exploit basically, so yeah i can't choose everything
 
 # Source Code
 You can't use the regular `Aspose.Email` Nu-Get package, as the one used here is modified to make it usable without a license
