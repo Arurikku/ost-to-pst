@@ -4,6 +4,8 @@ Converts outlook data file OST to outlook data file PST
 # Usage
 
 ```ostConverter.exe <input .ost file> <output folder>```
+
+or you can just run the exe normally
 > Example: ```ostConverter.exe C:\Users\username\Desktop\coolFile.ost C:\Users\username\Desktop
 
 The reason the output has to be a folder is because this uses an exploit basically, so yeah i can't choose everything
